@@ -1,0 +1,5 @@
+C:\Users\Marce\OneDrive\Documents\GitHub\TICTAC-LAB04\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\TICTAC-LAB04\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\OneDrive\Documents\GitHub\TICTAC-LAB04\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\TICTAC-LAB04\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Marce\OneDrive\Documents\GitHub\TICTAC-LAB04\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
